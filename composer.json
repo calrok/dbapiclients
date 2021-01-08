@@ -1,0 +1,17 @@
+{
+    "name": "roc/dbapiclients",
+    "description": "My package",
+    "authors": [
+        {
+            "name": "Roc Bernado Cirera",
+            "email": "calrok@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4": {
+            "roc\\dbapiclients\\": "src/"
+        }
+    }
+}
